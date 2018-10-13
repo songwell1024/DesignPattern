@@ -11,62 +11,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CakeHouseMenu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/composite/CakeHouseMenu.java">
+    <leaf>
+      <file leaf-file-name="Control.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/birdge/control/Control.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="35" column="1" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/composite/MenuItem.java">
+      <file leaf-file-name="TvControl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/birdge/bridge/TvControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="115">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="50" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComposeIterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/composite/ComposeIterator.java">
+      <file leaf-file-name="TvControlabs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/birdge/bridge/TvControlabs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="115">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Waitress.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/composite/Waitress.java">
+      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/birdge/bridge/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="299">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/composite/MainTest.java">
+      <file leaf-file-name="LGControl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/birdge/control/LGControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NullIterator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/composite/NullIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -91,57 +83,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/factory/SimpleFactory/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/factory/pizza/LDCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/pizza/NYPepperPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/pizza/LDPepperPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/pizza/NYCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/FactoryMethod/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/FactoryMethod/LDOrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/FactoryMethod/NYOrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/FactoryMethod/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/factory/AbstractFactory/AdsFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/AbstractFactory/LDFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/AbstractFactory/NYFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/AbstractFactory/AbsOrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/AbstractFactory/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/command/Command.java" />
-        <option value="$PROJECT_DIR$/src/command/StereoSubVolCommand.java" />
-        <option value="$PROJECT_DIR$/src/command/Light.java" />
-        <option value="$PROJECT_DIR$/src/command/StereoOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/command/StereoOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/command/StereoAddVolCommand.java" />
-        <option value="$PROJECT_DIR$/src/command/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/command/LightOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/command/ControlTest.java" />
-        <option value="$PROJECT_DIR$/src/command/MarcoCommand.java" />
-        <option value="$PROJECT_DIR$/src/command/Control.java" />
-        <option value="$PROJECT_DIR$/src/command/CommandModeControl.java" />
-        <option value="$PROJECT_DIR$/src/adapter/Tuckey/Tuckey.java" />
-        <option value="$PROJECT_DIR$/src/adapter/Tuckey/WildTurkey.java" />
-        <option value="$PROJECT_DIR$/src/adapter/duck/Duck.java" />
-        <option value="$PROJECT_DIR$/src/adapter/Adapter/TuckeyAdapter.java" />
-        <option value="$PROJECT_DIR$/src/adapter/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/adapter/Adapter/EnumerationIterator.java" />
-        <option value="$PROJECT_DIR$/src/adapter/Adapter/TurkeyAdapter2.java" />
-        <option value="$PROJECT_DIR$/src/facade/hometheater/Car.java" />
-        <option value="$PROJECT_DIR$/src/facade/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/TemplateMethod/HotDrink.java" />
-        <option value="$PROJECT_DIR$/src/TemplateMethod/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/TemplateMethod/Tea.java" />
-        <option value="$PROJECT_DIR$/src/TemplateMethod/HotDrinkWithHook.java" />
-        <option value="$PROJECT_DIR$/src/TemplateMethod/TeaWithHook.java" />
-        <option value="$PROJECT_DIR$/src/TemplateMethod/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/Iterator/java/MenuItem.java" />
-        <option value="$PROJECT_DIR$/src/Iterator/java/CafeMenu.java" />
-        <option value="$PROJECT_DIR$/src/Iterator/iterator/Waitress.java" />
-        <option value="$PROJECT_DIR$/src/Iterator/iterator/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/Iterator/iterator/CakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/src/Iterator/java/CakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/src/Iterator/java/DinerMenu.java" />
         <option value="$PROJECT_DIR$/src/Iterator/java/Waitress.java" />
         <option value="$PROJECT_DIR$/src/composite/CakeHouseMenu.java" />
         <option value="$PROJECT_DIR$/src/composite/DinerMenu.java" />
+        <option value="$PROJECT_DIR$/src/statemode/state/State.java" />
+        <option value="$PROJECT_DIR$/src/agent/candymachine/State.java" />
+        <option value="$PROJECT_DIR$/src/agent/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/agent/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/agent/rmi/MyRemoteImpl.java" />
+        <option value="$PROJECT_DIR$/src/agent/candymachinermi/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/agent/candymachinermi/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/agent/candymachine/CandyMachine.java" />
+        <option value="$PROJECT_DIR$/src/agent/candymachinermi/CandyMachineRemote.java" />
+        <option value="$PROJECT_DIR$/src/agent/candymachinermi/RemoteMainTest.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/AbstrctDuckFactory.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/CountingDuckFactory.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/DuckCall.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/DuckFactory.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/DuckSimulator.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/Flock.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/Goose.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/GooseAdapter.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/Observable.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/Observer.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/Quackable.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/QuackCounter.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/QuackObservable.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/Quackologist.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/RedheadDuck.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/cooperation/RubberDuck.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/BeatBar.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/BeatController.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/BeatModel.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/BeatModelInterface.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/BeatObserver.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/BPMObserver.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/ControllerInterface.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/DJTest.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/DJView.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/HeartAdapter.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/HeartController.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/HeartModel.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/HeartModelInterface.java" />
+        <option value="$PROJECT_DIR$/src/compoundpattern/mvc/HeartTest.java" />
+        <option value="$PROJECT_DIR$/src/birdge/control/Control.java" />
+        <option value="$PROJECT_DIR$/src/birdge/SonyTvControl.java" />
+        <option value="$PROJECT_DIR$/src/birdge/LGTvControl.java" />
+        <option value="$PROJECT_DIR$/src/birdge/bridge/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/birdge/bridge/newTvControl.java" />
+        <option value="$PROJECT_DIR$/src/birdge/bridge/TvControl.java" />
+        <option value="$PROJECT_DIR$/src/birdge/bridge/TvControlabs.java" />
       </list>
     </option>
   </component>
@@ -160,7 +152,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="304" />
     <option name="y" value="34" />
     <option name="width" value="1246" />
@@ -206,6 +198,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,16 +217,27 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="birdge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="birdge" type="462c0819:PsiDirectoryNode" />
+              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="birdge" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,11 +252,11 @@
       <recent name="factory.AbstractFactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-workspace\DesignPattern\src\birdge" />
+      <recent name="E:\IDEA-workspace\DesignPattern\src" />
+      <recent name="E:\IDEA-workspace\DesignPattern\src\agent" />
       <recent name="E:\IDEA-workspace\DesignPattern\src\composite" />
       <recent name="E:\IDEA-workspace\DesignPattern\src\Iterator\java" />
-      <recent name="E:\IDEA-workspace\DesignPattern\src\Iterator" />
-      <recent name="E:\IDEA-workspace\DesignPattern\src\facade" />
-      <recent name="E:\IDEA-workspace\DesignPattern\src\adapter\Adapter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -483,14 +489,16 @@
       <workItem from="1539240487361" duration="535000" />
       <workItem from="1539262677870" duration="1624000" />
       <workItem from="1539348728049" duration="2021000" />
+      <workItem from="1539394267398" duration="6633000" />
+      <workItem from="1539427340462" duration="1085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38984000" />
+    <option name="totallyTimeSpent" value="46702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -505,7 +513,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17994858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1407455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -535,400 +543,480 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/CafeMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/DinerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/CakeHouseMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/HotDrinkWithHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#405#406#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/TeaWithHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#262#263#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#404#405#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/HotDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#384#385#0" expanded="false" />
-            <element signature="e#433#434#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#155#156#0" expanded="false" />
-            <element signature="e#204#205#0" expanded="false" />
-            <element signature="e#253#254#0" expanded="false" />
-            <element signature="e#309#310#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/HotDrinkWithHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#405#406#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/TeaWithHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="34" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#262#263#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#404#405#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/HotDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#384#385#0" expanded="false" />
-            <element signature="e#433#434#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#155#156#0" expanded="false" />
-            <element signature="e#204#205#0" expanded="false" />
-            <element signature="e#253#254#0" expanded="false" />
-            <element signature="e#309#310#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/HotDrinkWithHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#405#406#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/TeaWithHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="34" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#262#263#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#404#405#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/HotDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
-            <element signature="e#384#385#0" expanded="false" />
-            <element signature="e#433#434#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#155#156#0" expanded="false" />
-            <element signature="e#204#205#0" expanded="false" />
-            <element signature="e#253#254#0" expanded="false" />
-            <element signature="e#309#310#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/MenuItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/iterator/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/iterator/DinerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="62" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/iterator/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="50" column="1" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="50" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/iterator/CakeHouseMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="60" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/iterator/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/DinerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/CafeMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Iterator/java/CakeHouseMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/MenuComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/DinerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="81" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/CakeHouseMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/SubMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/MenuItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/ComposeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/agent/dyn/NonOwnerInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/dyn/OwnerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/dyn/MatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/dyn/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facade/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/statemode/CandyMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2691">
+          <caret line="117" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="117" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TemplateMethod/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/AbstrctDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/CountingDuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/DuckCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/DuckFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/Goose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/GooseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/Quackable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/QuackCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/QuackObservable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/Quackologist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/RedheadDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/RubberDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/BeatBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/BeatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/BeatModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/BeatModelInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/BeatObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/BPMObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/ControllerInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/DJTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/DJView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#2250#2251#0" expanded="true" />
+            <element signature="e#2300#2301#0" expanded="true" />
+            <element signature="e#2780#2781#0" expanded="true" />
+            <element signature="e#2826#2827#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/HeartAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/HeartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/HeartModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/HeartModelInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/mvc/HeartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/compoundpattern.cooperation">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>compoundpattern.cooperation</OriginalElement>
+          <nodes>
+            <node x="1053.0" y="126.0">compoundpattern.cooperation.Observable</node>
+            <node x="1188.0" y="429.0">compoundpattern.cooperation.Goose</node>
+            <node x="0.0" y="601.0">compoundpattern.cooperation.CountingDuckFactory</node>
+            <node x="943.5" y="0.0">compoundpattern.cooperation.QuackObservable</node>
+            <node x="878.0" y="429.0">compoundpattern.cooperation.DuckSimulator</node>
+            <node x="0.0" y="262.0">compoundpattern.cooperation.QuackCounter</node>
+            <node x="1668.0" y="273.5">compoundpattern.cooperation.RubberDuck</node>
+            <node x="893.0" y="137.5">compoundpattern.cooperation.Quackable</node>
+            <node x="583.0" y="532.0">compoundpattern.cooperation.Quackologist</node>
+            <node x="278.0" y="273.5">compoundpattern.cooperation.MallardDuck</node>
+            <node x="834.0" y="273.5">compoundpattern.cooperation.DuckCall</node>
+            <node x="279.0" y="601.0">compoundpattern.cooperation.DuckFactory</node>
+            <node x="1390.0" y="273.5">compoundpattern.cooperation.RedheadDuck</node>
+            <node x="1112.0" y="262.0">compoundpattern.cooperation.Flock</node>
+            <node x="556.0" y="273.5">compoundpattern.cooperation.GooseAdapter</node>
+            <node x="583.0" y="429.0">compoundpattern.cooperation.Observer</node>
+            <node x="139.5" y="429.0">compoundpattern.cooperation.AbstrctDuckFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="compoundpattern.cooperation.Quackologist" target="compoundpattern.cooperation.Observer">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.RedheadDuck" target="compoundpattern.cooperation.Quackable">
+              <point x="0.0" y="-49.5" />
+              <point x="1519.0" y="232.0" />
+              <point x="1003.0" y="232.0" />
+              <point x="40.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.Observable" target="compoundpattern.cooperation.QuackObservable">
+              <point x="0.0" y="-38.0" />
+              <point x="1182.0" y="101.0" />
+              <point x="1137.0" y="101.0" />
+              <point x="64.5" y="38.0" />
+            </edge>
+            <edge source="compoundpattern.cooperation.Flock" target="compoundpattern.cooperation.Quackable">
+              <point x="0.0" y="-61.0" />
+              <point x="1241.0" y="242.0" />
+              <point x="983.0" y="242.0" />
+              <point x="20.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.GooseAdapter" target="compoundpattern.cooperation.Quackable">
+              <point x="0.0" y="-49.5" />
+              <point x="685.0" y="242.0" />
+              <point x="943.0" y="242.0" />
+              <point x="-20.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.DuckCall" target="compoundpattern.cooperation.Quackable">
+              <point x="0.0" y="-49.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.QuackCounter" target="compoundpattern.cooperation.Quackable">
+              <point x="0.0" y="-61.0" />
+              <point x="129.0" y="222.0" />
+              <point x="903.0" y="222.0" />
+              <point x="-60.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.MallardDuck" target="compoundpattern.cooperation.Quackable">
+              <point x="0.0" y="-49.5" />
+              <point x="407.0" y="232.0" />
+              <point x="923.0" y="232.0" />
+              <point x="-40.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.RubberDuck" target="compoundpattern.cooperation.Quackable">
+              <point x="0.0" y="-49.5" />
+              <point x="1797.0" y="222.0" />
+              <point x="1023.0" y="222.0" />
+              <point x="60.0" y="26.5" />
+            </edge>
+            <edge source="compoundpattern.cooperation.Quackable" target="compoundpattern.cooperation.QuackObservable">
+              <point x="0.0" y="-26.5" />
+              <point x="963.0" y="101.0" />
+              <point x="1008.0" y="101.0" />
+              <point x="-64.5" y="38.0" />
+            </edge>
+            <edge source="compoundpattern.cooperation.DuckFactory" target="compoundpattern.cooperation.AbstrctDuckFactory">
+              <point x="0.0" y="-61.0" />
+              <point x="408.5" y="576.0" />
+              <point x="333.75" y="576.0" />
+              <point x="64.75" y="61.0" />
+            </edge>
+            <edge source="compoundpattern.cooperation.CountingDuckFactory" target="compoundpattern.cooperation.AbstrctDuckFactory">
+              <point x="0.0" y="-61.0" />
+              <point x="129.5" y="576.0" />
+              <point x="204.25" y="576.0" />
+              <point x="-64.75" y="61.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="981.0" y="438.0" />
+          <SelectedNodes>
+            <node>compoundpattern.cooperation.GooseAdapter</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/DuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compoundpattern/cooperation/Flock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/TvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/composite/NullIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/birdge/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/SonyTvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/LGTvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/control/SharpControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/control/SonyControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/bridge/newTvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/control/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/control/LGControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/bridge/TvControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="50" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/bridge/TvControlabs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/birdge/bridge/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
