@@ -206,4 +206,4 @@
 
 复合模式：多个模式的组合
 
-[复合模式](
+[复合模式](https://songwell1024.github.io/2018/10/17/compoundMode/)
